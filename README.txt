@@ -1,1 +1,0 @@
-This is a repository for all of my assignments in my CompBio 4420 course. If you're not my teacher or a classmate you probably won't find this interesting at all. Thank you! <3
